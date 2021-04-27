@@ -1,4 +1,4 @@
-from midiutil import MIDIFile
+from midiutil.MidiFile import MIDIFile
 
 FILE = MIDIFile(1)
 TRACK = 0

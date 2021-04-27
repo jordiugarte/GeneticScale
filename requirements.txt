@@ -1,3 +1,5 @@
 click==7.1.2
 MIDIUtil==1.2.1
 pyo==1.0.1
+tensorflow~=2.4.1
+numpy~=1.19.5
